@@ -1,6 +1,6 @@
 # Burgeria 112
 
-Burgeria 112 was my final project for my **15-112 Fundamentals of Programming and Computer Science class** at **Carnegie Mellon University**, named by Bloomberg as one of the **Top Five Best Computer Science Classes in the US** 
+Burgeria 112 was my final project for my **15-112 Fundamentals of Programming and Computer Science** class at Carnegie Mellon University, named by Bloomberg as one of the Top Five Best Computer Science Classes in the US.
 
 I completed this project from November to December 2022. All graphics are also created by me!
 
