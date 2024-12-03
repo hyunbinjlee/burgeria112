@@ -4,6 +4,8 @@ Burgeria 112 was my final project for my **15-112 Fundamentals of Programming an
 
 I completed this project from November to December 2022. All graphics are also created by me!
 
+## Overview
+
 This game is inspired by Papa's Burgeria and Overcooked. You are in charge of a fast food drive-thru for seven days. You must be both speedy and careful as this will impact your score! As you progress through the days, you can unlock new toppings like lettuce and tomatoes, but your orders also become more complex. Make it through all seven days and you win!
 
 ## How To Play
