@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment variables
+.env
+
+# ZIP files
+*.zip
+
+# System files
+.DS_Store
+Thumbs.db
